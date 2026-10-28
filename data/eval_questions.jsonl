@@ -1,0 +1,40 @@
+{"id": "nw-code", "question": "What does product code NW-4471 refer to?", "relevant": [{"file": "northwind_annual_report_2024.pdf", "page": 6}], "answerable": true}
+{"id": "nw-contract", "question": "Which renewal is filed under contract number NW-CN-2024-1187?", "relevant": [{"file": "northwind_annual_report_2024.pdf", "page": 7}], "answerable": true}
+{"id": "hl-grant-id", "question": "Which study carries grant identifier CRF-HL-2023-014?", "relevant": [{"file": "harborline_grant_report.pdf", "page": 1}], "answerable": true}
+{"id": "lk-grant-id", "question": "Which study carries grant identifier HST-LK-2022-077?", "relevant": [{"file": "larkspur_grant_report.pdf", "page": 1}], "answerable": true}
+{"id": "cd-policy", "question": "Which clinic is covered by policy number CHC-POL-55921?", "relevant": [{"file": "cedar_health_memo.pdf", "page": 3}], "answerable": true}
+{"id": "kp-contract", "question": "Who signed contract number KSC-88421?", "relevant": [{"file": "kepler_supply_contract.pdf", "page": 1}], "answerable": true}
+{"id": "kp-code", "question": "What does product code KP-9F3 refer to?", "relevant": [{"file": "kepler_supply_contract.pdf", "page": 2}], "answerable": true}
+{"id": "sf-contract", "question": "Which addendum uses contract number SF-11002?", "relevant": [{"file": "solstice_vendor_addendum.pdf", "page": 1}], "answerable": true}
+{"id": "nw-earnings", "question": "What were the annual earnings of the Chicago forecasting firm for 2024?", "relevant": [{"file": "northwind_annual_report_2024.pdf", "page": 2}], "answerable": true}
+{"id": "nw-court", "question": "Who is taking the Chicago forecasting firm to court?", "relevant": [{"file": "northwind_annual_report_2024.pdf", "page": 5}], "answerable": true}
+{"id": "nw-books", "question": "Which outside accounting firm signed the books of the Chicago forecasting firm?", "relevant": [{"file": "northwind_annual_report_2024.pdf", "page": 5}], "answerable": true}
+{"id": "hl-gauge", "question": "When did crews finish the Seattle coastal study and bring the last instrument home?", "relevant": [{"file": "harborline_grant_report.pdf", "page": 3}], "answerable": true}
+{"id": "hl-refund", "question": "How much of the coastal research award was sent back to the funder near the end of 2024?", "relevant": [{"file": "harborline_grant_report.pdf", "page": 4}], "answerable": true}
+{"id": "cd-gift", "question": "What sum did the Boulder foundation give the Denver clinic group in the middle of 2024?", "relevant": [{"file": "cedar_health_memo.pdf", "page": 2}], "answerable": true}
+{"id": "nw-revenue", "question": "What was the consolidated revenue of Northwind Analytics for the fiscal year ended 31 December 2024?", "relevant": [{"file": "northwind_annual_report_2024.pdf", "page": 2}], "answerable": true}
+{"id": "md-revenue", "question": "What was the consolidated revenue of Meridian Logistics for the fiscal year ended 31 December 2023?", "relevant": [{"file": "meridian_annual_report_2023.pdf", "page": 2}], "answerable": true}
+{"id": "nw-dividend", "question": "What dividend per share did the Northwind Analytics board approve on 18 February 2025?", "relevant": [{"file": "northwind_annual_report_2024.pdf", "page": 2}], "answerable": true}
+{"id": "md-dividend", "question": "What dividend per share did the Meridian Logistics board approve on 9 February 2024?", "relevant": [{"file": "meridian_annual_report_2023.pdf", "page": 2}], "answerable": true}
+{"id": "nw-berlin", "question": "What sales did the Berlin office record during June 2024?", "relevant": [{"file": "northwind_annual_report_2024.pdf", "page": 3}], "answerable": true}
+{"id": "md-houston", "question": "What sales did the Houston office record during June 2023?", "relevant": [{"file": "meridian_annual_report_2023.pdf", "page": 3}], "answerable": true}
+{"id": "hl-grant-amt", "question": "How much grant funding did the Coastal Research Foundation award to Harborline Institute on 9 January 2023?", "relevant": [{"file": "harborline_grant_report.pdf", "page": 1}], "answerable": true}
+{"id": "lk-grant-amt", "question": "How much grant funding did the Highland Science Trust award to Larkspur Observatory on 4 March 2022?", "relevant": [{"file": "larkspur_grant_report.pdf", "page": 1}], "answerable": true}
+{"id": "cd-budget", "question": "What was the approved opening budget of the Cedar Health Denver clinic?", "relevant": [{"file": "cedar_health_memo.pdf", "page": 1}], "answerable": true}
+{"id": "br-budget", "question": "What was the approved opening budget of the Briar Clinic Partners Portland clinic?", "relevant": [{"file": "briar_clinic_memo.pdf", "page": 1}], "answerable": true}
+{"id": "nw-hq", "question": "Where is Northwind Analytics headquartered?", "relevant": [{"file": "northwind_annual_report_2024.pdf", "page": 1}], "answerable": true}
+{"id": "nw-helios", "question": "How much of the Berlin June total came from the contract with Helios Bank?", "relevant": [{"file": "northwind_annual_report_2024.pdf", "page": 3}], "answerable": true}
+{"id": "nw-london", "question": "What cash reserves did the London treasury desk hold on 31 December 2024?", "relevant": [{"file": "northwind_annual_report_2024.pdf", "page": 2}], "answerable": true}
+{"id": "nw-board", "question": "On what date did the Northwind board meet in Chicago to adopt the annual report?", "relevant": [{"file": "northwind_annual_report_2024.pdf", "page": 1}], "answerable": true}
+{"id": "nw-cfo", "question": "Who certified the Northwind Analytics revenue figures?", "relevant": [{"file": "northwind_annual_report_2024.pdf", "page": 8}], "answerable": true}
+{"id": "hl-equipment", "question": "What was the value of the equipment Pacific Tide Labs provided on 22 May 2023?", "relevant": [{"file": "harborline_grant_report.pdf", "page": 2}], "answerable": true}
+{"id": "hl-offices", "question": "Where are the principal offices of Harborline Institute?", "relevant": [{"file": "harborline_grant_report.pdf", "page": 1}], "answerable": true}
+{"id": "cd-opened", "question": "When did Cedar Health Cooperative open its Denver clinic?", "relevant": [{"file": "cedar_health_memo.pdf", "page": 1}], "answerable": true}
+{"id": "cd-address", "question": "What is the street address of the Cedar Health clinic in Denver?", "relevant": [{"file": "cedar_health_memo.pdf", "page": 1}], "answerable": true}
+{"id": "md-audit", "question": "Which accounting firm signed the books of Meridian Logistics, and in which city?", "relevant": [{"file": "meridian_annual_report_2023.pdf", "page": 5}], "answerable": true}
+{"id": "un-zorblax", "question": "What is the melting point of ytterbium on the planet Zorblax?", "relevant": [], "answerable": false}
+{"id": "un-gala", "question": "Which vineyard supplied the dessert wine served at the inaugural gala?", "relevant": [], "answerable": false}
+{"id": "un-balloons", "question": "How many helium balloons were launched from the Mars habitat prototype?", "relevant": [], "answerable": false}
+{"id": "un-loom", "question": "How many threads does the quantum loom keep on its primary spool?", "relevant": [], "answerable": false}
+{"id": "un-canteen", "question": "What did the submarine canteen serve on the night shift?", "relevant": [], "answerable": false}
+{"id": "un-aurora", "question": "What was the ticket price for the Antarctic aurora festival?", "relevant": [], "answerable": false}

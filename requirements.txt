@@ -1,0 +1,6 @@
+pymupdf
+numpy
+faiss-cpu
+sentence-transformers
+requests
+pytest
