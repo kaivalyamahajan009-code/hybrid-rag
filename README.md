@@ -1,6 +1,6 @@
 # Hybrid RAG over PDFs
 
-I built this as a placement-interview project. You put PDFs in a folder, the script indexes them, and you ask questions. The answer quotes a sentence from the documents and cites the file and page. If the pages do not contain the answer, it says it could not find enough evidence.
+You put PDFs in a folder, the script indexes them, and you ask questions. The answer quotes a sentence from the documents and cites the file and page. If the pages do not contain the answer, it says it could not find enough evidence.
 
 What it does:
 
@@ -117,11 +117,3 @@ data/pdfs/         eight sample reports
 data/eval_questions.jsonl
 tests/             pytest, embedder faked
 ```
-
-## What I'd improve next
-
-- Plug in the real BiLSTM NER and see if the metadata filter separates the near-duplicate reports.
-- Write a short answer when the fact is split across two chunks. The default writer only quotes a sentence.
-- Handle tables and two-column pages. PyMuPDF's line order gets messy there.
-- Rerank fewer than 20 chunks. That step is what makes `ask` slow.
-- Hold out a few questions before moving the 0.2 rerank cutoff, so this table is not the set I tuned on.
